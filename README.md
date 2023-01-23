@@ -1,4 +1,4 @@
-# Primes Up To a Million
+# Primes To a Million
 
 - A curious question is, how many primes are there up to a million? To find out I first constructed an algorithm that checks if a number is prime. I Then iterated through the naturals up to one million checking each number and appending the primes in a list. 
 
