@@ -1,1 +1,1 @@
-# Primes
+# Primes Up To a Million
