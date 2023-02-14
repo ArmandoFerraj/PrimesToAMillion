@@ -1,6 +1,6 @@
 # Primes To a Million
 
-- A curious question is, how many primes are there up to a million? To find out I constructed an algorithm that checks if a number is prime. I Then iterated up to a million checking each number to find the answer. 
+- A curious question is, "how many primes are there up to a million?". To find out I constructed an algorithm that checks if a number is prime. I Then iterated up to a million checking each number to find the answer. 
 
 - Ulam's Spiral is a graphical depiction of the set of primes developed by Stainslaw Ulam in 1963. The mysterious gaps seem to imply that the primes are distributed by some underlying structure, not randomness.
 
