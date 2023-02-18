@@ -1,6 +1,6 @@
 # Primes To a Million
 
-- A curious question is, "how many primes are there up to a million?". To find out I first constructed an algorithm that checks if a number is prime. I Then iterated up to a million checking each number to find the answer. 
+- A curious question is, "how many primes are there up to a million?". To find out I first constructed an algorithm that checks if a number is prime. I then iterated up to a million checking each number to find the answer. 
 
 - I have provided a graphical depiciton of the set of primes dictated by Euler's equation z = r⋅e^iθ. The yellow dots represent the primes and the gaps represent the composites.
 
